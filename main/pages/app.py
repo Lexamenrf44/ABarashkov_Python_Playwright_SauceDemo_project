@@ -1,5 +1,3 @@
-import time
-
 from playwright.sync_api import expect, Page
 
 from main.support.data import Data
